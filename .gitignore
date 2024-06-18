@@ -1,0 +1,7 @@
+# Ignore .promptflow folder
+.promptflow
+
+# Ignore __pycache__ folder
+__pycache__
+.env
+azure_openai.yml
